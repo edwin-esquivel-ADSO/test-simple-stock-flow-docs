@@ -67,7 +67,7 @@ En cualquiera de las dos carpetas, en este orden:
 
 ---
 
-# Hub Central de Documentación — Solución de Nivel Senior
+# Hub Central de Documentación — Solución
 
 ## 1. El Reto SDD (Spec-Driven Development) y Traducción a Onion
 
